@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FODECC SAVE test</string>
+    <string name="action_settings">Paramètres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="registration_no">Nom de l\'OP</string>
+    <string name="email">Nombre de pieds plantés</string>
+    <string name="phone">Culture (Cacao ou Café)</string>
+    <string name="cross_image_content_description">Supprimer une information</string>
+    <string name="empty_student_list_message">La liste est vide!</string>
+    <string name="student_name">Nom du planteur</string>
+    <string name="update">Mettre à jour</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="create_button">Créer</string>
+    <string name="all_delete">Tout supprimer</string>
+    <string name="edit_button_description">Editer une information</string>
+</resources>
